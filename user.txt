@@ -1,0 +1,10 @@
+CREATE TABLE `group009_campus`.`user1` 
+(
+  `uname` VARCHAR(20) NOT NULL,
+
+  `pass` VARCHAR(45) NULL,
+ 
+ `date` VARCHAR(45) NULL,
+ 
+ `phno` INT NULL,
+  PRIMARY KEY (`uname`));
